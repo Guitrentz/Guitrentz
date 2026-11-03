@@ -1,6 +1,7 @@
 # Guilherme Trentini, DDS
 
-**Senior Dental & Facial Surgeon (DDS, 18+ Yrs) | Clinical Product Lead & Health Informatics Practitioner**
+**Senior Dental & Facial Surgeon (DDS / Dentist, 18+ Yrs) | Clinical Product Lead & Health Informatics Practitioner**  
+**HL7 FHIR R4/R5 • SNOMED CT Certified • EHR Design • 3D Digital Surgery (CBCT/CAD-CAM) • Clinical AI Evaluator (SME)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-drtrentini-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/drtrentini/)
 [![Templus Architecture](https://img.shields.io/badge/Architecture-Templus_FHIR_Core-0066CC?style=flat)](https://github.com/Guitrentz/templus-fhir-clinical-architecture)
@@ -10,7 +11,7 @@
 
 ### Executive Summary
 
-I am a Senior Dental, Oral & Maxillofacial, and Facial Aesthetic Surgeon with over 18 years of high-acuity clinical and surgical experience, operating at the intersection of **Clinical Product Strategy, Health Informatics, and AI-Augmented Healthcare Systems**.
+I am a Senior Dental, Oral & Maxillofacial, and Facial Aesthetic Surgeon (**DDS / Dentist**, 18+ years of uninterrupted clinical and surgical practice; 5-Year First Professional Degree / EU EQF Level 7) operating at the intersection of **Clinical Product Leadership, Health Informatics, 3D Digital Surgery (`CBCT`, `CAD/CAM`), and Clinical AI Evaluation (`Subject Matter Expert / SME`)**.
 
 After nearly two decades inside operating rooms and multi-disciplinary outpatient practices, I transitioned into designing next-generation Electronic Health Record (EHR), Practice Management (ERP), and Clinical Decision Support (CDS) architectures that eliminate clinician burnout and enforce perioperative patient safety at the data layer.
 
@@ -56,4 +57,4 @@ I do not write boilerplate application code line by line in the traditional care
 ### Contact & Professional Links
 
 * **LinkedIn:** [linkedin.com/in/drtrentini](https://www.linkedin.com/in/drtrentini/)
-* **Availability:** Open to **Clinical Product Lead**, **Clinical Informaticist**, **CMIO / Medical Director (HealthTech/DentalTech/MedTech)**, and **Principal Clinical AI Architect** opportunities (Remote US/EU/UK & EU Relocation).
+* **Availability:** Open to **Clinical Product Lead / Manager**, **Dental & Clinical AI Evaluator / Subject Matter Expert (SME)**, **Health Informatics Practitioner**, and **Clinical Implementation & Digital Surgery (CBCT/CAD-CAM) Specialist** opportunities (Remote US/EU/UK & EU Relocation).
