@@ -42,6 +42,7 @@ I do not write boilerplate application code line by line in the traditional care
 
 #### 1. [`templus-fhir-clinical-architecture`](https://github.com/Guitrentz/templus-fhir-clinical-architecture)
 **Hexagonal Multi-Jurisdictional EHR/ERP Architecture, ADRs & Release Notes (Alpha v0.3.0)**
+> While already developing our clinical platform under a country-specific lens, I saw that local rules inside the core blocked global interoperability. I decided to start from zero around a Universal Core with pluggable Country Packs. Using step-by-step AI orchestration and deterministic guardrails, I anchored the core on HL7 FHIR and SNOMED CT, locking a 49-table universal blueprint and a 65-system migration spec before writing code.
 * Public architectural documentation, Mermaid system diagrams, and Architecture Decision Records (ADRs) for **Templus** (`templ.us`), a next-generation multi-disciplinary medical, surgical, and dental EHR/ERP platform.
 * Details the **7 Jurisdictional Hexagonal Ports** and **5 UI Extension Slots** that allow a single agnostic clinical core to run across US (`HIPAA`, `US Core`, `FDA CDS`, `CDT/CPT`), European (`GDPR`, `EU MDR`), and Brazilian (`LGPD`, `ANVISA`, `ICP-Brasil`, `RNDS/TISS`) regulatory environments without polluting core domain logic.
 
