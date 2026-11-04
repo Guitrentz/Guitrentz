@@ -42,9 +42,9 @@ How I work in practice:
 ### Featured Public Repositories (AI-Engineered Under Clinical Direction)
 
 #### 1. [`templus-fhir-clinical-architecture`](https://github.com/Guitrentz/templus-fhir-clinical-architecture)
-**AI-Assisted Multi-Jurisdictional EHR/ERP Architecture, ADRs & Release Notes (Alpha v0.3.0)**
+**AI-Assisted Multi-Jurisdictional EHR/ERP Architecture, ADRs & Release Notes (Alpha v0.3.1)**
 * Architectural blueprints, Mermaid workflow diagrams, and Architecture Decision Records (ADRs) for **Templus** (`templ.us`), an independent clinical R&D prototype.
-* Demonstrates how a practicing surgeon can direct AI agents through macro and micromanagement to separate a **Universal Clinical Core** (`HL7 FHIR`, `SNOMED CT`, `ISO 3950`, `PostgreSQL RLS`) from pluggable **Country Packs** (`US` and `Brazil`).
+* Demonstrates how a practicing surgeon can direct AI agents through macro and micromanagement to separate a **Universal Clinical Core** (`HL7 FHIR`, `SNOMED CT`, `ISO 3950`, `PostgreSQL RLS`) from pluggable **Country Packs** (`US` and `Brazil`), including 26 paired atomic specifications for Module 1 (`1.1.A` to `1.6.B`).
 
 #### 2. [`clinical-ai-deterministic-harness`](https://github.com/Guitrentz/clinical-ai-deterministic-harness)
 **Executable Python Validation Library & Guardrails for Clinical AI Systems (MIT License)**
