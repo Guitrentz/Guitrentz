@@ -42,14 +42,14 @@ How I work in practice:
 ### Featured Public Repositories (AI-Engineered Under Clinical Direction)
 
 #### 1. [`templus-fhir-clinical-architecture`](https://github.com/Guitrentz/templus-fhir-clinical-architecture)
-**AI-Assisted Multi-Jurisdictional EHR/ERP Architecture, ADRs & Release Notes (Alpha v0.3.2)**
+**AI-Assisted Multi-Jurisdictional EHR/ERP Architecture, ADRs & Release Notes (Alpha v0.3.3)**
 * Architectural blueprints, Mermaid workflow diagrams, and Architecture Decision Records (ADRs) for **Templus** (`templ.us`), an independent clinical R&D prototype.
-* Demonstrates how a practicing surgeon can direct AI agents through macro and micromanagement to separate a **Universal Clinical Core** (`HL7 FHIR`, `SNOMED CT`, `ISO 3950`, `PostgreSQL RLS`) from pluggable **Country Packs** (`US` and `Brazil`), with **21 Atomic Units (`42 Paired Specifications`)** locked across Module 1 (Foundation & Zero-Trust Security) and Module 2 (Multi-Resource `GiST` Scheduling, Zero-PHI CRM & Post-Op Surgical Recall).
+* Demonstrates how a practicing surgeon can direct AI agents through macro and micromanagement to separate a **Universal Clinical Core** (`HL7 FHIR`, `SNOMED CT`, `ISO 3950`, `PostgreSQL RLS`) from pluggable **Country Packs** (`US` and `Brazil`), including a **Two-Stage Air-Gapped Ambient Clinical Scribe Engine** governed by `SNOMED CT MRCM` Role Groups (`Zero Cross-Talk`), `25s` progressive audio micro-chunking (`2–3s` final turnaround), and deterministic role-authority/negation firewalls.
 
 #### 2. [`clinical-ai-deterministic-harness`](https://github.com/Guitrentz/clinical-ai-deterministic-harness)
 **Executable Python Validation Library & Guardrails for Clinical AI Systems (MIT License)**
 * Open-source Python verification toolkit generated and tested via AI agents (`Google Antigravity`) under my clinical specification and supervision to prevent LLM hallucinations in healthcare software.
-* Validates **SNOMED CT (`SCTID` Verhoeff checksum)**, **US National Provider Identifier (`NPI`)**, **US DEA Registration Numbers**, **FDA Unique Device Identification (`UDI` / GS1)**, **Brazilian National Health Card (`CNS`)**, and **`HIPAA Safe Harbor` PHI scrubbing**.
+* Validates **SNOMED CT (`SCTID` Verhoeff checksum & v2.3.1 Compositional Grammar post-coordination)**, **SNOMED CT MRCM Role-Authority & Temporal Scribe Firewalls**, **Sentence-Level Negation Preservation**, **US National Provider Identifier (`NPI`)**, **US DEA Registration Numbers**, **FDA Unique Device Identification (`UDI` / GS1)**, **Brazilian National Health Card (`CNS`)**, and **`HIPAA Safe Harbor` PHI scrubbing**.
 
 ---
 
